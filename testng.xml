@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.testngconcept.Test11"/>
+      <class name="com.testngconcept.Test12"/>
+      <class name="com.testngconcept.Test13"/>
+      <class name="com.test.AlertHandling"/>
+		<class name="com.test.DemoGuru99ExampleDragNDrop"/>
+		<class name="com.test.DragDrops"/>
+		<class name="com.test.FillForm"/>
+		<class name="com.test.Iframe"/>
+		<class name="com.test.MouseHovering"/>
+		<class name="com.test.MouseYatra"/>
+		<class name="com.test.OpenBrowser"/>
+		<class name="com.test.SelectDropDown"/>
+		<class name="com.test.SelectDropDown2"/>
+		<class name="com.test.Solution"/>
+		<class name="com.test.Test1"/>
+		<class name="com.test.Test2"/>
+		<class name="com.test.YatraCancellation"/>
+		<class name="com.test.YatraCloseTab"/>
+		<class name="com.test.YatraContents2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

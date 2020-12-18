@@ -1,0 +1,60 @@
+
+
+@Test - Compulsory to execute the test case
+
+
+@Before Method
+@AfterMethod
+
+
+
+BeforeMethod
+@Test- FirstTest()
+AfterMethod
+@BeforeMethod
+@Test- SecondTest()
+AfterMethod
+
+
+-- create 7 Method in @Test Annotation
+
+and run before and after method for all 7 method 
+
+Before Class and After Class
+
+
+
+Depends on method - Assignment
+
+
+
+@Beforeclass
+@BeforeMethod
+@Test
+AfterMethd
+
+@BeforeMethod
+@Test
+@AfterMethod
+
+@BeforeMethod
+@Test
+@AfterMethod
+@Aftercalss
+
+
+
+
+
+
+create 6 to 7 file in test ng and run with testng.xml
+
+what is data provider in testng - read concept online 
+
+
+
+
+
+
+
+how to get data from xls sheet - with apache poi ooxml 
